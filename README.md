@@ -33,8 +33,9 @@ Full Stack Engineer with **2.5+ years** of experience crafting enterprise-grade 
 - 🏢 &nbsp; Previously @ **upGrad (Client: Fynd)** · **AeroSimple**
 - 🌍 &nbsp; Based in *Kakinada / Andhra Pradesh, India**
 - 🛠️ &nbsp; Currently building: **AI-powered recruitment and healthcare and travel planning platforms & enterprise MES tools**
-- 🤖 &nbsp; AI integrations using **OpenAI · Claude · Gemini APIs**
+- 🤖 &nbsp; Exploring Agentic AI · GenAI · LLMs · RAG · AI integrations
 - 💡 &nbsp; I believe great software is 50% engineering, 50% empathy for the user
+- 🎯 &nbsp; Open to Full-Stack Engineering · Forward Deployed Engineering · Agentic AI / GenAI Engineering
 
 ---
 
@@ -153,11 +154,12 @@ A full-featured project management app with JWT auth, RBAC, task workflows, and 
 
 I'm open to:
 
-- 💬 **Technical discussions** on React, Node.js, system design, or SAP integrations
-- 🧑‍🏫 **Mentoring** aspiring full-stack developers
-- 🛠️ **Collaborations** on open-source or side projects
-- 🤖 **AI integration** consulting for enterprise workflows
-- 🔎 **New opportunities** in full-stack / backend engineering
+💬 Technical discussions on React, Node.js, system design, or enterprise integrations
+🛠️ Full-Stack Engineering — building scalable products across frontend, backend, APIs, databases, and deployment
+🚀 Forward Deployed Engineering — solving customer problems, technical discovery, integrations, solution design, and deployment
+🤖 Agentic AI / GenAI Engineering — LLM applications, RAG, AI agents, tool calling, and workflow automation
+🤝 Collaborations on open-source or product engineering projects
+🔎 New opportunities across Full-Stack, FDE, and Agentic AI / GenAI engineering
 
 <div align="center">
 
