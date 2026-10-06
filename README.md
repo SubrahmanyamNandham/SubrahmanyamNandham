@@ -32,7 +32,7 @@ Full Stack Engineer with **2.5+ years** of experience crafting enterprise-grade 
 
 - 🏢 &nbsp; Previously @ **upGrad (Client: Fynd)** · **AeroSimple**
 - 🌍 &nbsp; Based in **Visakhapatnam / Andhra Pradesh, India**
-- 🛠️ &nbsp; Currently building: **AI-powered travel planning platforms & enterprise MES tools**
+- 🛠️ &nbsp; Currently building: **AI-powered recruitment and healthcare and travel planning platforms & enterprise MES tools**
 - 🤖 &nbsp; AI integrations using **OpenAI · Claude · Gemini APIs**
 - 💡 &nbsp; I believe great software is 50% engineering, 50% empathy for the user
 
