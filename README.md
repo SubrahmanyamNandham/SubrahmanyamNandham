@@ -31,7 +31,7 @@
 Full Stack Engineer with **2.5+ years** of experience crafting enterprise-grade web applications that scale. I bridge the gap between intricate backend systems — including **SAP integrations**, **GraphQL APIs**, and **microservices** — and polished, performant frontends. Currently exploring the frontier of **AI-augmented development** with LLM API integrations.
 
 - 🏢 &nbsp; Previously @ **upGrad (Client: Fynd)** · **AeroSimple**
-- 🌍 &nbsp; Based in **Visakhapatnam / Andhra Pradesh, India**
+- 🌍 &nbsp; Based in *Kakinada / Andhra Pradesh, India**
 - 🛠️ &nbsp; Currently building: **AI-powered recruitment and healthcare and travel planning platforms & enterprise MES tools**
 - 🤖 &nbsp; AI integrations using **OpenAI · Claude · Gemini APIs**
 - 💡 &nbsp; I believe great software is 50% engineering, 50% empathy for the user
